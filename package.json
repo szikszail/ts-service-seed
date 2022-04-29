@@ -52,7 +52,7 @@
     "express": "^4.17.1",
     "express-winston": "^4.0.5",
     "fs-extra": "^9.0.1",
-    "uuid": "^8.3.0",
+    "uuid": "^8.3.2",
     "winston": "^3.3.3"
   },
   "husky": {
